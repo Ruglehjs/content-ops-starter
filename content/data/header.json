@@ -25,10 +25,10 @@
             "label": "Get started",
             "altText": "",
             "url": "/home",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "elementId": ""
         },
         {
