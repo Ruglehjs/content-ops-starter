@@ -168,6 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 500
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
